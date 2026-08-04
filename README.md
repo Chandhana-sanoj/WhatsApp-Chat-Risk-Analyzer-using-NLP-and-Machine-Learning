@@ -2,6 +2,8 @@
 
 An AI-powered WhatsApp chat investigation system that analyzes exported WhatsApp conversations using Natural Language Processing (NLP) and Machine Learning to identify potentially suspicious messages and generate an interactive investigation dashboard.
 
+Live app → (https://chat-risk-analyzer.streamlit.app/)
+
 > **Project Status:** Version 1 (Prototype)  
 > This repository contains the first working version of the project. A more advanced Version 2 focused on domain-specific investigation and improved NLP techniques is currently under development.
 
